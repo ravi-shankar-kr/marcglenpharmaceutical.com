@@ -9,14 +9,24 @@ This repository contains the source code for the MarcGlen Pharmaceutical company
 
 
 Features:
+
 Responsive layout for desktop, tablet and mobile
+
 Home, About, Products/Services, Contact pages
+
 Contact form (submits to email or webhook)
+
 SEO-friendly meta tags and open graph images
+
 Easy-to-update content via component files / markdown
+
 Fast performance and accessible UI
 
+
+
 Live :- Visit the live site here: https://marcglenpharmaceutical.com
+
+
 
 Screenshots:
 Home:
